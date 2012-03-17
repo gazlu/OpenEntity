@@ -1,0 +1,12 @@
+DB Utility - 
+           Auto Code generator for insert and update database operations.
+           Stored Proc Generator for CRUD Operations.
+           Entity Class Generator for Table in Database.
+
+PHP - 
+           Entity framework for PHP.
+           BaseEntity should be extended to create entity using DB Utility.
+           Create Your PHP Code Repository to manage a db module.
+           dbaccess provides PDO based database operations for the managing database based on Stored Proc and Table.
+           Common function have lots of utilitise to manipulate objects and form data.
+           HTML Utility provides you lots of utility classes for html forms and JQuery Datatable.
