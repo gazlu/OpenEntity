@@ -7,7 +7,7 @@
 	
 	$form = '<body>
 			<h2>
-				{You Module Size}
+				{You Module Name}
 			</h2>
 			<div id="stylized" class="myform">
 			<div id="container">
