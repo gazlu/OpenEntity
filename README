@@ -1,3 +1,6 @@
+Entity framework based application for CodeIgniter.
+Entity framework based application for MVC.net.
+
 DB Utility - 
            Auto Code generator for insert and update database operations.
            Stored Proc Generator for CRUD Operations.
